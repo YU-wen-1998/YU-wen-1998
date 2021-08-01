@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YU-wen-1998
-- 👀 I’m interested in Computer Science and Phisics
+- 👀 I’m interested in Computer Science and Physics
 - 🌱 I’m currently learning Software Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please Contact me with Email.(ywenpeter@gmail.com)
